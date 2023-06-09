@@ -2,6 +2,12 @@
 name = "crate_feature"
 version = "0.1.0"
 edition = "2021"
+authors = ["prongbang"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/prongbang/crate_feature"
+documentation = "https://docs.rs/regex"
+homepage = "https://github.com/prongbang/crate_feature"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
